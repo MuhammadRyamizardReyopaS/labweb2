@@ -1,41 +1,40 @@
-### tugas praktikum 2 "CSS Dasar"
+### praktikum 2 "CSS Dasar"
 
 ```
-Raja heppyanto
+Muhammad Ryamizard R S 
 TI.22.A2
 ```
 ### Praktikum
 
 #### 1. Membuat Dokumen HTML Sebagai Berikut
 
-![gbr1](foto/gbr1.png)
+![foto1](foto1.PNG)
 
 #### 2. Mendeklarasi Internal CSS 
 
 Mendeklarasi CSS di dalam html itu sendiri
 
-![gbr2](foto/gbr2.png)
+![foto2](foto2.PNG)
 
 #### 3. menambahkan Inline CSS
 
 Tambahkan Inline CSS pada paragraf dengan perintah style |text align|Color untuk mengubah rata text dan warna text
-
-![gbr3](foto/gbr3.png)
+![foto3](foto3.PNG)
 
 #### 4. Membuat external CSS
 
 1. Buat File baru dengan nama Lab.css 
 2. kemudian kaitkan css ke html dengan tag link di bagian head
 
-![gbr4](foto/gbr4.png)
+![foto5](foto5.PNG)
 
 #### 5. Menambahkan CSS selektor
 
-![gbr5](foto/gbr5.png)
+![foto4](foto4.PNG)
 
 #### 6. Validasi File CSS di web W3C CSS
 
-![gbr6](foto/gbr6.png)
+![foto6](foto6.PNG)
 
 ### Jawab pertanyaan dan Tugas
 
